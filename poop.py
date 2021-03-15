@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = "NzgyMDU1OTQ0NjkwNzI4OTcw.X8GoWw.kTC4BrYCtfQQrWh2X4kJnSAXXVY"
+TOKEN = "NzgyMDU4MzE5Mjc5NDIzNDk5.X8GqkQ._WSDf2zdIraMsaW1d9HT86wAYTY"
 activity = discord.Activity(type=discord.ActivityType.watching, name="for your messages")
 client = commands.Bot(command_prefix = "}")
 
