@@ -15,3 +15,4 @@ async def on_message(message):
 
 client.run(TOKEN)
 ODc2NjIyODE0MDI1NzY0ODk1.GpiTM_.3JOU6etzcuB4fisIFJksSHpL_NqUIsnwKUSafI
+ODc2NjIyODE0MDI1NzY0ODk1.GZfkp_.o2JBlNzG8ME04snOGQXAT__Q28DdYTqUQ0lmGE
